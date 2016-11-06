@@ -19,7 +19,8 @@
   "homepage": "https://github.com/Bwitoradyo/library#readme",
   "dependencies": {
     "ejs": "^2.5.2",
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "mssql": "^3.3.0"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
