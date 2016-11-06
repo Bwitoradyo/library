@@ -1,0 +1,9 @@
+logs/*
+!.gitkeep
+node_modules/
+bower_components/
+e2e-tests/
+onlineimages/
+tmp
+.DS_Store
+.idea
