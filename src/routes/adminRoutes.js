@@ -7,12 +7,14 @@ var books = [
         title:'War and Peace',
         genre: 'Historical Fiction',
         author: 'Lev Nikolayevich Tolstoy',
+        bookId:656,
         read: false
     },
     {
         title:'Useful Sites for Designers',
         genre: 'Non Fiction',
         author: 'Pinokio',
+        bookId:24280,
         read: false
     },
     {
